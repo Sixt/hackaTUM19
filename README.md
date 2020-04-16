@@ -4,7 +4,7 @@ This is an API that aggregates free floating vehicles, tier scooters, SIXT stati
 
 ## Questions?
 
-Please ask your questions in our [Slack channel](https://slack.com/app_redirect?team=TNF4DFDRQ&channel=CPCFKPNN9) or come to our booth.
+Please ask your questions in the **Discord Channel #sixt** or the **technical mentors with SIXT** in their name.
 
 # API Description
 
